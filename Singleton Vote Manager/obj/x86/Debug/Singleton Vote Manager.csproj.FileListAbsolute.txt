@@ -1,0 +1,64 @@
+C:\Users\Dave\Documents\ONU\Classes\1011\Winter\Design Patterns\Patterns\Singleton Vote Manager\Singleton Vote Manager\bin\Debug\Singleton Vote Manager.exe
+C:\Users\Dave\Documents\ONU\Classes\1011\Winter\Design Patterns\Patterns\Singleton Vote Manager\Singleton Vote Manager\bin\Debug\Singleton Vote Manager.pdb
+C:\Users\Dave\Documents\ONU\Classes\1011\Winter\Design Patterns\Patterns\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dave\Documents\ONU\Classes\1011\Winter\Design Patterns\Patterns\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\Singleton_Vote_Manager.Form1.resources
+C:\Users\Dave\Documents\ONU\Classes\1011\Winter\Design Patterns\Patterns\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\Singleton_Vote_Manager.Properties.Resources.resources
+C:\Users\Dave\Documents\ONU\Classes\1011\Winter\Design Patterns\Patterns\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\Singleton_Vote_Manager.VotingBooth.resources
+C:\Users\Dave\Documents\ONU\Classes\1011\Winter\Design Patterns\Patterns\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Dave\Documents\ONU\Classes\1011\Winter\Design Patterns\Patterns\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Dave\Documents\ONU\Classes\1011\Winter\Design Patterns\Patterns\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\Singleton Vote Manager.exe
+C:\Users\Dave\Documents\ONU\Classes\1011\Winter\Design Patterns\Patterns\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\Singleton Vote Manager.pdb
+C:\Users\Dave\Documents\My Dropbox\ONU\Classes\2010-2011\Winter\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\Singleton Vote Manager.exe
+C:\Users\Dave\Documents\My Dropbox\ONU\Classes\2010-2011\Winter\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\Singleton Vote Manager.pdb
+C:\Users\Dave\Documents\My Dropbox\ONU\Classes\2010-2011\Winter\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\bin\Debug\Singleton Vote Manager.exe
+C:\Users\Dave\Documents\My Dropbox\ONU\Classes\2010-2011\Winter\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\bin\Debug\Singleton Vote Manager.pdb
+C:\Users\Dave\Documents\My Dropbox\ONU\Classes\2010-2011\Winter\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dave\Documents\My Dropbox\ONU\Classes\2010-2011\Winter\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\Singleton_Vote_Manager.Form1.resources
+C:\Users\Dave\Documents\My Dropbox\ONU\Classes\2010-2011\Winter\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\Singleton_Vote_Manager.Properties.Resources.resources
+C:\Users\Dave\Documents\My Dropbox\ONU\Classes\2010-2011\Winter\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\Singleton_Vote_Manager.VotingBooth.resources
+C:\Users\Dave\Documents\My Dropbox\ONU\Classes\2010-2011\Winter\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Dave\Documents\My Dropbox\ONU\Classes\2010-2011\Winter\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Dave\Documents\My Dropbox\ONU\Classes\2010-2011\Winter\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Dave\Documents\My Dropbox\ONU\Classes\2010-2011\Winter\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Dave\Documents\My Dropbox\ONU\Classes\Timeless\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\Singleton Vote Manager.exe
+C:\Users\Dave\Documents\My Dropbox\ONU\Classes\Timeless\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\Singleton Vote Manager.pdb
+C:\Users\Dave\Documents\My Dropbox\ONU\Classes\Timeless\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\bin\Debug\Singleton Vote Manager.exe
+C:\Users\Dave\Documents\My Dropbox\ONU\Classes\Timeless\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\bin\Debug\Singleton Vote Manager.pdb
+C:\Users\Dave\Documents\My Dropbox\ONU\Classes\Timeless\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dave\Documents\My Dropbox\ONU\Classes\Timeless\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\Singleton_Vote_Manager.Form1.resources
+C:\Users\Dave\Documents\My Dropbox\ONU\Classes\Timeless\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\Singleton_Vote_Manager.Properties.Resources.resources
+C:\Users\Dave\Documents\My Dropbox\ONU\Classes\Timeless\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\Singleton_Vote_Manager.VotingBooth.resources
+C:\Users\Dave\Documents\My Dropbox\ONU\Classes\Timeless\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Dave\Documents\My Dropbox\ONU\Classes\Timeless\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Dave\Documents\My Dropbox\ONU\Classes\Timeless\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Dave\Documents\My Dropbox\ONU\Classes\Timeless\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\ResGen.write.1.tlog
+C:\Documents and Settings\d-retterer\My Documents\My Dropbox\ONU\Classes\Timeless\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\Singleton Vote Manager.exe
+C:\Documents and Settings\d-retterer\My Documents\My Dropbox\ONU\Classes\Timeless\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\Singleton Vote Manager.pdb
+C:\Documents and Settings\d-retterer\My Documents\My Dropbox\ONU\Classes\Timeless\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\bin\Debug\Singleton Vote Manager.exe
+C:\Documents and Settings\d-retterer\My Documents\My Dropbox\ONU\Classes\Timeless\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\bin\Debug\Singleton Vote Manager.pdb
+C:\Documents and Settings\d-retterer\My Documents\My Dropbox\ONU\Classes\Timeless\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\d-retterer\My Documents\My Dropbox\ONU\Classes\Timeless\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\Singleton_Vote_Manager.Form1.resources
+C:\Documents and Settings\d-retterer\My Documents\My Dropbox\ONU\Classes\Timeless\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\Singleton_Vote_Manager.Properties.Resources.resources
+C:\Documents and Settings\d-retterer\My Documents\My Dropbox\ONU\Classes\Timeless\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\Singleton_Vote_Manager.VotingBooth.resources
+C:\Documents and Settings\d-retterer\My Documents\My Dropbox\ONU\Classes\Timeless\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\d-retterer\My Documents\My Dropbox\ONU\Classes\Timeless\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Dave\Dropbox\ONU\Classes\Timeless\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\Singleton Vote Manager.exe
+C:\Users\Dave\Dropbox\ONU\Classes\Timeless\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\Singleton Vote Manager.pdb
+C:\Users\Dave\Dropbox\ONU\Classes\Timeless\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\bin\Debug\Singleton Vote Manager.exe
+C:\Users\Dave\Dropbox\ONU\Classes\Timeless\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\bin\Debug\Singleton Vote Manager.pdb
+C:\Users\Dave\Dropbox\ONU\Classes\Timeless\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\Singleton Vote Manager.csprojResolveAssemblyReference.cache
+C:\Users\Dave\Dropbox\ONU\Classes\Timeless\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\Singleton_Vote_Manager.Form1.resources
+C:\Users\Dave\Dropbox\ONU\Classes\Timeless\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\Singleton_Vote_Manager.Properties.Resources.resources
+C:\Users\Dave\Dropbox\ONU\Classes\Timeless\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\Singleton_Vote_Manager.VotingBooth.resources
+C:\Users\Dave\Dropbox\ONU\Classes\Timeless\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\Singleton Vote Manager.csproj.GenerateResource.Cache
+C:\Users\Dave\Dropbox\ONU\Classes\Timeless\Design Patterns\Solutions\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\Singleton Vote Manager.csproj.CoreCompileInputs.cache
+C:\Users\Dave\Dropbox\Kayllen\Courses\Design Patterns\02 - The Singleton Pattern\Singleton Vote Manager\Singleton Vote Manager\bin\Debug\Singleton Vote Manager.exe
+C:\Users\Dave\Dropbox\Kayllen\Courses\Design Patterns\02 - The Singleton Pattern\Singleton Vote Manager\Singleton Vote Manager\bin\Debug\Singleton Vote Manager.pdb
+C:\Users\Dave\Dropbox\Kayllen\Courses\Design Patterns\02 - The Singleton Pattern\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\Singleton Vote Manager.csprojResolveAssemblyReference.cache
+C:\Users\Dave\Dropbox\Kayllen\Courses\Design Patterns\02 - The Singleton Pattern\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\Singleton_Vote_Manager.Properties.Resources.resources
+C:\Users\Dave\Dropbox\Kayllen\Courses\Design Patterns\02 - The Singleton Pattern\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\Singleton_Vote_Manager.VotingBooth.resources
+C:\Users\Dave\Dropbox\Kayllen\Courses\Design Patterns\02 - The Singleton Pattern\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\Singleton Vote Manager.csproj.GenerateResource.Cache
+C:\Users\Dave\Dropbox\Kayllen\Courses\Design Patterns\02 - The Singleton Pattern\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\Singleton Vote Manager.csproj.CoreCompileInputs.cache
+C:\Users\Dave\Dropbox\Kayllen\Courses\Design Patterns\02 - The Singleton Pattern\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\Singleton Vote Manager.exe
+C:\Users\Dave\Dropbox\Kayllen\Courses\Design Patterns\02 - The Singleton Pattern\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\Singleton Vote Manager.pdb
+C:\Users\Dave\Dropbox\Kayllen\Courses\Design Patterns\02 - The Singleton Pattern\Singleton Vote Manager\Singleton Vote Manager\obj\x86\Debug\Singleton_Vote_Manager.frmVoteManager.resources
